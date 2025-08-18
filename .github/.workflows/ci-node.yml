@@ -13,3 +13,4 @@ jobs:
       version: "20"
       run_tests_cmd: "cd src/node-app && npm test --silent"
     secrets: inherit
+    
